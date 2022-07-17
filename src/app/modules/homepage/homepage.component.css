@@ -17,6 +17,7 @@
 
 .contact-center {
   text-align: center;
+  padding-bottom: 30px;
 }
 .contact-row {
   padding-top: 30px;
@@ -29,4 +30,10 @@
   padding: 0px;
 }
 
+.image-map {
+  text-align: center;
+}
 
+.textSite {
+  text-align: center;
+}
