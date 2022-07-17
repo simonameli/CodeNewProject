@@ -1,0 +1,32 @@
+.wrap-action-acc {
+  text-align: center;
+}
+
+.titlee{
+  text-align: center;
+  font-size: 60px;
+}
+.title2{
+  text-align: center;
+  padding-top: 50px;
+}
+
+.paragr1 {
+  padding-top: 30px;
+}
+
+.contact-center {
+  text-align: center;
+}
+.contact-row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container-home {
+  /*box-sizing: border-box;*/
+  min-height: 80vh;
+  padding: 0px;
+}
+
+

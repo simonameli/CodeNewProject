@@ -1,0 +1,19 @@
+
+.title2{
+  text-align: center;
+  padding-top: 50px;
+}
+.title3{
+  text-align: center;
+}
+
+.container-azienda{
+  /*box-sizing: border-box;*/
+  min-height: 80vh;
+  padding: 0px;
+}
+.textSite {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}

@@ -1,0 +1,30 @@
+.nav {
+  background-color: #3c3c46;
+  list-style-type: none; 
+  padding: 0;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.nav-link {
+  display: inline-block;
+  color: white;
+  padding-top: 50px;
+}
+
+.header-row {
+  background-color: #dddfd4;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-bottom: 0px;
+}
+
+.navbar-brand {
+  padding-left: 30px;
+  padding-top: 15px;
+}
+
+.nav-itemss {
+  padding-right: 50px;
+}
+

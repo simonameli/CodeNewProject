@@ -1,0 +1,17 @@
+.footer-style{
+  text-align: center;
+  color:black;
+
+}
+.container-footer {
+  max-width: 100% !important;
+  bottom: 0;
+  width: 100%;
+  min-height: 35px;
+}
+
+.footer-row {
+  background-color: #dddfd4;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
