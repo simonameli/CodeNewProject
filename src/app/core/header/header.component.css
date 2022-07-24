@@ -1,30 +1,35 @@
-.nav {
-  background-color: #3c3c46;
-  list-style-type: none; 
-  padding: 0;
-  margin: 0;
-  padding-bottom: 20px;
+/* The navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: #DDDFD4;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
 }
 
-.nav-link {
-  display: inline-block;
-  color: white;
-  padding-top: 50px;
+/* Links inside the navbar */
+.nav-item {
+  float: left;
+  display: block;
+  color: red;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
-.header-row {
-  background-color: #dddfd4;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  margin-bottom: 0px;
+/* Change background on mouse-over */
+.nav-item:hover {
+  background: #ddd;
+  color: black;
 }
 
 .navbar-brand {
-  padding-left: 30px;
   padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  float: left;
 }
 
-.nav-itemss {
-  padding-right: 50px;
+.nav-link {
+  color: black;
 }
-
